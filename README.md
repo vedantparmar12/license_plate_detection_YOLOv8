@@ -1,3 +1,4 @@
+[requirements.txt](https://github.com/user-attachments/files/15526179/requirements.txt)
 # Car License Plate Detection using YOLOv8
 
 This repository contains code for detecting car license plates using the state-of-the-art object detection algorithm, YOLOv8, and a dataset from Kaggle.
