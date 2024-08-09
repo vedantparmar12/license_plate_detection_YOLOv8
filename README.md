@@ -48,6 +48,18 @@ bashCopy code
 ``` pip install -r requirements.txt
 ```
 
+
+val_batch1_labels
+``` https://wandb.ai/omega_one/YOLOv8/reports/val_batch1_labels-24-08-09-15-56-34---Vmlldzo4OTgwMTA3```
+
+metric graph can be visualized here
+``` https://wandb.ai/omega_one/YOLOv8/reports/results-24-08-09-16-04-30---Vmlldzo4OTgwMTc0  ```
+
+f1 graph
+``` https://wandb.ai/omega_one/YOLOv8/reports/undefined-24-08-09-16-06-19---Vmlldzo4OTgwMTg0 ```
+
+
+
 Download the Kaggle dataset and place it in the data directory.
 
 Training
