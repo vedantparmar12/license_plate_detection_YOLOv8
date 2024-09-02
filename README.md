@@ -16,7 +16,7 @@ The dataset used for training and evaluation is from Kaggle and can be found [he
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/car-plate-detection.git
+git clone https://github.com/vedantparmar12/car-plate-detection.git
 ```
 cd car-plate-detection
 Install the required dependencies:
